@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1627594076 source:d:\academics\semester 7\concurrent programming\assignments\assignment 1 - linked list\linked_list_mutex\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<pthread.h>
+	"linked_list_mutex_struct.h"
+
+1627591871 d:\academics\semester 7\concurrent programming\assignments\assignment 1 - linked list\linked_list_mutex\linked_list_mutex_struct.h
+	<pthread.h>
+
