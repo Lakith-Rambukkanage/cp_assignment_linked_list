@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1627593813 source:d:\academics\semester 7\concurrent programming\assignments\assignment 1 - linked list\linked_list_serial\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	"linked_list_serial_struct.h"
+
+1627567258 d:\academics\semester 7\concurrent programming\assignments\assignment 1 - linked list\linked_list_serial\linked_list_serial_struct.h
+
